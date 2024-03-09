@@ -88,7 +88,7 @@ const Dashboard = () => {
   return (
     <>
       {userName ? (
-        <div className="dash>board">
+        <div className="dashboard">
           <h1>
             Welcome back, <span className="accent">{userName}</span>
           </h1>
